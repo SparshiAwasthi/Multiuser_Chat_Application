@@ -52,7 +52,7 @@ Registration GUI -
 ![register](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/61813c7c-cf71-4f46-8083-2df31b4d113c)
 
 DashBoard GUI -
-dashboard
+![dashboard](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/cd8ef948-4841-4e1f-a2f9-5f81a5cd71fa)
 
 ChatScreen GUI -
 chatScreen
