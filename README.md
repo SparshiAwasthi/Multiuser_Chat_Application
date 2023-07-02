@@ -43,7 +43,7 @@ A java-based-multiuser-chat-application with robust features including OOP, JDBC
 - Sparshi Awasthi(https://github.com/SparshiAwasthi)
 
 ##Videos
-https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/2a0e5d06-75bd-4527-b4b0-b4cf1b095135
+![video]https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/54b491c3-fec2-452a-b1fa-d0143ea3e39d
 
 ##Login GUI -
 ![login](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/33e7c792-ff60-473c-9f29-bd8fa027e046)
