@@ -1,4 +1,4 @@
-##Multiuser_Chat_Application
+#Multiuser_Chat_Application
 - A java-based-multiuser-chat-application with robust features including OOP, JDBC, socket programming, MD5 Password Encryption, and an intuitive GUI, it provides a seamless experience for real-time conversations and collaboration among multiple users.
 
 ## Features
