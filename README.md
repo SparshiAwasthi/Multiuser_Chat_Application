@@ -48,11 +48,8 @@ https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/2a0
 Login GUI -
 ![login](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/33e7c792-ff60-473c-9f29-bd8fa027e046)
 
-login
-
 Registration GUI -
-
-register
+![register](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/61813c7c-cf71-4f46-8083-2df31b4d113c)
 
 DashBoard GUI -
 dashboard
