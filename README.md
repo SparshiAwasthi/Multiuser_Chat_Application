@@ -42,18 +42,18 @@
 ## Contributors
 - Sparshi Awasthi(https://github.com/SparshiAwasthi)
 
-##Videos
+## Videos
 
 ![video]https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/54b491c3-fec2-452a-b1fa-d0143ea3e39d
 
-##Login GUI -
+## Login GUI -
 ![login](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/33e7c792-ff60-473c-9f29-bd8fa027e046)
 
-##Registration GUI -
+## Registration GUI -
 ![register](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/61813c7c-cf71-4f46-8083-2df31b4d113c)
 
-##DashBoard GUI -
+## DashBoard GUI -
 ![dashboard](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/cd8ef948-4841-4e1f-a2f9-5f81a5cd71fa)
 
-##ChatScreen GUI -
+## ChatScreen GUI -
 ![chatScreen](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/1b1bd090-289e-4070-af55-ea1629ab73a0)
