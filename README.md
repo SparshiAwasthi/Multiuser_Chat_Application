@@ -30,6 +30,7 @@ A java-based-multiuser-chat-application with robust features including OOP, JDBC
 - Object-Oriented Programming (OOP) Concepts
 - GUI Development
 - MySQL
+  
 ## Usage
 
 - Open the chat application on your device.
@@ -37,22 +38,21 @@ A java-based-multiuser-chat-application with robust features including OOP, JDBC
 - If you already have an account, simply enter your username and password in the provided fields, and click on the "Login" button to access your account.
 - Once you're logged in, you'll be able to start sending and receiving messages through the chat interface.
 - Finally, enjoy engaging with other users in the chat application, exchanging messages and participating in discussions!
+  
 ## Contributors
-
 - Sparshi Awasthi(https://github.com/SparshiAwasthi)
 
 ##Videos
 https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/2a0e5d06-75bd-4527-b4b0-b4cf1b095135
 
- chat_application.mp4 
-Login GUI -
+##Login GUI -
 ![login](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/33e7c792-ff60-473c-9f29-bd8fa027e046)
 
-Registration GUI -
+##Registration GUI -
 ![register](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/61813c7c-cf71-4f46-8083-2df31b4d113c)
 
-DashBoard GUI -
+##DashBoard GUI -
 ![dashboard](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/cd8ef948-4841-4e1f-a2f9-5f81a5cd71fa)
 
-ChatScreen GUI -
-chatScreen
+##ChatScreen GUI -
+![chatScreen](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/1b1bd090-289e-4070-af55-ea1629ab73a0)
