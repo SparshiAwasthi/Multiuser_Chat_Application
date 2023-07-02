@@ -44,7 +44,7 @@
 
 ## Videos
 
-![video]https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/54b491c3-fec2-452a-b1fa-d0143ea3e39d
+https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/98dff472-97b9-4315-8234-8f51268572e2
 
 ## Login GUI -
 ![login](https://github.com/SparshiAwasthi/Multiuser_Chat_Application/assets/96409730/33e7c792-ff60-473c-9f29-bd8fa027e046)
